@@ -1,1 +1,1 @@
-print("Git Day 1: ML pipelines journey started")
+print("Git Day 2: learning diff and history")
